@@ -1,0 +1,2 @@
+<function gerar_senhas_segura at 0x0000014219C1A2A0>
+<function gerar_senhas_segura at 0x000001A09D4BA2A0>
